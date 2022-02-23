@@ -1,0 +1,8 @@
+.position-buttons{
+  display: flex;
+  justify-content: space-between;
+}
+
+.height-section{
+  height: 200px;
+}
